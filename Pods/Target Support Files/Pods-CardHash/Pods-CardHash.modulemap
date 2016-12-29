@@ -1,0 +1,6 @@
+framework module Pods_CardHash {
+  umbrella header "Pods-CardHash-umbrella.h"
+
+  export *
+  module * { export * }
+}
